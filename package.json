@@ -1,0 +1,15 @@
+{
+  "name": "nodeNLP",
+  "version": "1.0.0",
+  "description": "Single node NLP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Eduardo Dib",
+  "license": "MIT",
+  "dependencies": {
+    "node-nlp": "^4.8.1"
+  }
+}
