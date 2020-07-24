@@ -1,4 +1,4 @@
-# Node NLP
+# Single Node NLP
 
 *Um simples chat bot com (recurso de IA) PNL (Processamento Natural de Linguagem) , que responde as perguntas dentro do escopo treinado.*
 
