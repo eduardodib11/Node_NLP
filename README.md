@@ -3,7 +3,7 @@
 *Um simples chat bot com (recurso de IA) PNL (Processamento Natural de Linguagem) , que responde as perguntas dentro do escopo treinado.*
 
 **Usando [node](https://nodejs.org/en/) e [node-nlp](https://www.npmjs.com/package/node-nlp).**
-
+___
 *A simple chat bot with (AI feature) NLP (Natural Language Processing), which answers questions within the trained scope.*
 
 **Using [node](https://nodejs.org/en/) and [node-nlp](https://www.npmjs.com/package/node-nlp).**
